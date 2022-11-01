@@ -1,4 +1,4 @@
- # Projeto Analise COVID-19
+ # Projeto Análise COVID-19
 ## Investigar os dados da disseminação do COVID-19 no Brasil desde o início da pandemia em fevereiro de 2020
 
 Projeto desenvolvido durante as instruções nas aulas de modelos com Python e Machine Learning da Innovation One, ministradas pelo especialista em Data Scientist Neylson Crepalde.
